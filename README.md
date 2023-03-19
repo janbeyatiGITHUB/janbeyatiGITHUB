@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning the Racket Language!
+- 📫 How to reach me: janbeyati.9@gmail.com
+
+Link to my [LinkedIn](https://www.linkedin.com/in/jan-b-970775213/)
+
 <!--
 **janbeyatiGITHUB/janbeyatiGITHUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
