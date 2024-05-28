@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning the Racket Language!
+- 🌱 I’m currently working at Barracuda Networks as a Software Engineering Intern!
 - 📫 How to reach me: janbeyati.9@gmail.com
 
 Link to my [LinkedIn](https://www.linkedin.com/in/jan-b-970775213/)
